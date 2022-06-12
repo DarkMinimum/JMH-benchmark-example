@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lb1_benchmarking:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lb1_benchmarking_jar</output-path>
+    <root id="archive" name="lb1_benchmarking.jar">
+      <element id="module-output" name="lb1_benchmarking" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjdk/jmh/jmh-core/1.33/jmh-core-1.33.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.2/commons-math3-3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjdk/jmh/jmh-generator-annprocess/1.33/jmh-generator-annprocess-1.33.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
